@@ -1,6 +1,12 @@
 # TVC\_teensey\_hutto
 
-LRA flight computer 19-20 Gen 2, adapted for TVC rocket at 2026 Dec 6th Hutto launch
+LRA flight computer 19-20 Gen 2, adapted for TVC rocket at 2026 Dec 6th Hutto launch.
+
+
+
+Here's a video of the launch: https://youtube.com/shorts/gt5yKM4Uu48
+
+(if not accessible, it's also in TVC teams, trying scrolling to Dec 6th 2025)
 
 
 
@@ -21,12 +27,4 @@ The most likely data that matches this feature is towards the end of the second 
 
 
 However, this is all based on assuming the data we are looking for is towards the end of the second csv file. Feel free to poke around more to see what you think is more likely our true data. Also take a close look at the video to see if everything matches.
-
-
-
-A video link is needed here:
-
-(if not, it's also in TVC teams, trying scrolling to Dec 6th 2025)
-
-
 
